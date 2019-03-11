@@ -1,0 +1,240 @@
+Python 3.5.0 (v3.5.0:374f501f4567, Sep 12 2015, 11:00:19) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "copyright", "credits" or "license()" for more information.
+>>> WARNING: The version of Tcl/Tk (8.5.9) in use may be unstable.
+Visit http://www.python.org/download/mac/tcltk/ for current information.
+    1  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    2  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    3  brew install biogeme
+    4  "pythonbiogeme lab.py biogeme_swissmetro.csv"
+    5  pythonbiogeme lab.py biogeme_swissmetro.csv
+    6  "pythonbiogeme labpy biogeme_swissmetro.csv"
+    7  "pythonbiogeme lab.py biogeme_swissmetro.csv"
+    8  "pythonbiogeme lab.py biogeme_swissmetro.csv"
+    9  pythonbiogeme lab biogeme_swissmetro.csv
+   10  "pythonbiogeme lab biogeme_swissmetro.csv"
+   11  pythonbiogeme lab biogeme_swissmetro.csv
+   12  pythonbiogeme lab biogeme_swissmetro.csv
+   13  pythonbiogeme lab swissmetro.csv
+   14  pythonbiogeme lab swissmetro.csv
+   15  pythonbiogeme lab swissmetro.csv
+   16  pythonbiogeme lab swissmetro.csv
+   17  pythonbiogeme lab swissmetro.csv
+   18  pythonbiogeme lab swissmetro.csv
+   19  pythonbiogeme lab3 datos3.csv
+   20  pythonbiogeme lab3 datos3.csv
+   21  biopreparedata datos3.csv
+   22  pythonbiogeme lab3  biogeme_datos3.csv
+   23  pythonbiogeme lab3 datos3.csv
+   24  biopreparedata datos3.csv
+   25  pythonbiogeme lab3 biogeme_datos3.csv
+   26  pythonbiogeme lab3 biogeme_datos3.csv
+   27  pythonbiogeme lab3 biogeme_datos3.csv 
+   28  pythonbiogeme lab3mod2 biogeme_datos3.csv
+   29  pyhtonbiogeme lab3 biogeme_datos3.csv
+   30  pythonbiogeme lab3 biogeme_datos3.csv
+   31  pythonbiogeme lab3mod2 biogeme_datos3.csv
+   32  pythonbiogeme lab3mod2 biogeme_datos3.csv
+   33  pythonbiogeme lab3mod2 biogeme_datos3.csv
+   34  pythonbiogeme lab3mod2 biogeme_datos3.csv
+   35  pythonbiogeme lab3mod3 biogeme_datos3.csv
+   36  pythonbiogeme lab3mod2 biogeme_datos3.csv
+   37  pythonbiogeme lab3mod3 biogeme_datos3.csv
+   38  pythonbiogeme lab3mod5 biogeme_datos3.csv
+   39  pythonbiogeme lab3mod4 biogeme_datos3.csv
+   40  pythonbiogeme lab3mod1 biogeme_datos3.csv
+   41  biopreparedata DatosT3.csv
+   42  bipreparedata DatosT3.csv
+   43  biopreparedata DatosT3.csv
+   44  biopreparedata DatosT3.csv
+   45  pythonbiogeme t3mod1 biogeme_DatosT3.csv
+   46  pythonbiogeme t3mod1 biogeme_DatosT3.csv
+   47  pythonbiogeme t3mod1 biogeme_DatosT3.csv
+   48  pythonbiogeme t3mod1 biogeme_DatosT3.csv
+   49  biopreparedata DatosT3.xlsx
+   50  pyhtonbiogeme t3mod1 biogeme_DatosT3.csv
+   51  pythonbiogeme t3mod1
+   52  pythonbiogeme t3mod1 biogeme_DatosT3.csv
+   53  biopreparedata DatosT3.csv
+   54  pythonbiogeme t3mod1 biogeme_DatosT3.csv
+   55  biopreparedata DatosTaller3.csv
+   56  pythonbiogeme t3mod1 biogeme_DatosTaller3.csv
+   57  pythonbiogeme t3mod1 biogeme_DatosTaller3.csv
+   58  biopreparedata DatTaller3.csv
+   59  pythonbiogeme t3mod1 biogeme_DatTaller3.csv
+   60  biopreparedata DT3.csv
+   61  pythonbiogeme t3mod1 DT3.csv
+   62  pythonbiogeme t3mod1 biogeme_DT3.csv
+   63  biopreparedata DATOS.csv
+   64  biopreparedata Base de Datos Taller 3.csv
+   65  pythonbiogeme t3mod2 biogeme_DATOS.csv
+   66  pythonbiogeme t3mod2 biogeme_DATOS.csv
+   67  pythonbiogeme t3mod2 biogeme_DATOS.csv
+   68  pythonbiogeme t3mod1 biogeme_DATOS.csv
+   69  pythonbiogeme t3mod1 biogeme_DATOS.csv
+   70  pyhtonbiogeme t3mod1 biogeme_DATOS.csv
+   71  pythonbiogeme t3mod1 biogeme_DATOS.csv
+   72  pythonbiogeme t3mod2 biogeme_DATOS.csv
+   73  pythonbiogeme t3mod1 biogeme_DATOS.csv
+   74  pythonbiogeme t3mod1 biogeme_DATOS.csv
+   75  pythonbiogeme t3mod4 biogeme_DATOS.csv
+   76  pythonbiogeme t3mod5 biogeme_DATOS.csv
+   77  pythonbiogeme t3mod6 biogeme_DATOS.csv
+   78  pythonbiogeme t3mod7 biogeme_DATOS.csv
+   79  pythonbiogeme t3mod7 biogeme_DATOS.csv
+   80  biopreparedata datosg4.csv
+   81  pythonbiogeme t3mod2 biogeme_datosg4.csv
+   82  pythonbiogeme t3mod2 biogeme_datosg4.csv
+   83  pythonbiogeme t3mod2 biogeme_DATOS.csv
+   84  pythonbiogeme t3mod2 biogeme_datosg4.csv
+   85  biopreparedata grupo4.csv
+   86  pythonbiogeme t3mod2 biogeme_grupo4.csv
+   87  biopreparedata g4.csv
+   88  biopreparedata g4.csv
+   89  biopreparedata g4.csv
+   90  pythonbiogeme t3mod2 biogeme_g4.csv
+   91  pythonbiogeme t3mod2 biogeme_g4.csv
+   92  pythonbiogeme t3mod2 biogeme_g4.csv
+   93  pythonbiogeme t3mod3 grupo3.txt
+   94  biopreparedata grupo3.txt
+   95  pythonbiogeme t3mod3 biogeme_grupo3.txt
+   96  pythonbiogeme t3mod2 grupo3.txt
+   97  pythonbiogeme t3mod8 grupo3.txt
+   98  pythonbiogeme t3mod1 grupo3.txt
+   99  pythonbiogeme t3mod3 grupo3.txt
+  100  pythonbiogeme t3mod9 grupo3.txt
+  101  pythonbiogeme t3mod10 grupo3.txt
+  102  pythonbiogeme t3mod10 grupo3.txt
+  103  pythonbiogeme t3mod10 grupo3.txt 
+  104  pythonbiogeme t3mod8 grupo3.txt
+  105  pythonbiogeme t3mod3 biogeme_DATOS.csv
+  106  pythonbiogeme hlmod1 grupo3.txt
+  107  pythonbiogeme hlmod1 grupo3.txt
+  108  pythonbiogeme t3mod8 grupo3.txt
+  109  pythonbiogeme hlmod2 grupo3.txt
+  110  pythonbiogeme t3mod8 grupo3.txt
+  111  pythonbiogeme t3mod9 grupo3.txt
+  112  pythonbiogeme t3mod3 grupo3.txt
+  113  pythonbiogeme hlmod2 grupo3.txt
+  114  pythonbiogeme hlmod2 grupo3.txt
+  115  pythonbiogeme t3mod8 grupo3.txt
+  116  pythonbiogeme hlmod2 grupo3.txt
+  117  pythonbiogeme hlmod2 grupo3.txt
+  118  pythonbiogeme hlmod3 grupo3.txt
+  119  pythonbiogeme hlmod2 grupo3.txt
+  120  pythonbiogeme hlmod3 grupo3.txt
+  121  pythonbiogeme hlmod3 grupo3.txt
+  122  pythonbiogeme hlmod3 grupo3.txt
+  123  pythonbiogeme hlmod1 grupo3.txt
+  124  pythonbiogeme hlmod3 grupo3.txt
+  125  pythonbiogeme hlmod1 grupo3.txt
+  126  pythonbiogeme hlmod2 grupo3.txt
+  127  pythonbiogeme hlmod2 grupo3.txt
+  128  pythonbiogeme hlmod2 grupo3.txt
+  129  pythonbiogeme hlmod2 grupo3.txt
+  130  biocheckdata 
+  131  biocheckdata grupo3.txt 
+  132  pythonbiogeme t3mod9 grupo3.txt
+  133  pythonbiogeme la4mod1 datos4.txt
+  134  pythonbiogeme lab4mod1 datos4.txt
+  135  pythonbiogeme lab4mod1 datos4.txt
+  136  biopreparedata datos4.txt
+  137  pythonbiogeme lab4mod1 biogeme_datos4.txt
+  138  pythonbiogeme lab4mod1 biogeme_datos4.txt
+  139  pythonbiogeme lab4mod1 datos4.txt
+  140  pythonbiogeme lab4mod5 datos4.txt
+  141  pythonbiogeme lab4mod4 datos4.txt
+  142  pythonbiogeme lab4mod3 datos4.txt
+  143  pythonbiogeme lab4mod2 datos4.txt
+  144  pythonbiogeme lab4mod6 datos4.txt
+  145  pythonbiogeme lab4mod10 datos4.txt
+  146  pythonbiogeme lab4mod5 datos4.txt
+  147  pythonbiogeme lab4mod9 datos4.txt
+  148  pythonbiogeme lab4mod8 datos4.txt
+  149  pythonbiogeme lab4mod7 datos4.txt
+  150  pythonbiogeme lab4mod10 datos4.txt
+  151  pythonbiogeme modelo1 datos4.txt
+  152  pythonbiogeme modelo5 datos4.txt
+  153  pythonbiogeme modelo4 datos4.txt
+  154  pythonbiogeme modelo3 datos4.txt
+  155  pythonbiogeme modelo2 datos4.txt
+  156  biocheckdata DATOS.txt
+  157  biocheckdata DATOST3.txt
+  158  biocheckdata DATOST3.txt
+  159  biocheckdata WINDOWS.txt
+  160  biocheckdata BDMODO.csv
+  161  biopreparedata modo.csv
+  162  biocheckdata modo.csv
+  163  biocheckdata biogeme_bdmodo.csv
+  164  pythonbiogeme modelo1 biogeme_bdmodo.csv
+  165  pythonbiogeme modelo1 biogeme_bdmodo.csv
+  166  pythonbiogeme modelo1 biogeme_bdmodo.csv
+  167  pythonbiogeme modelomodo2 biogeme_bdmodo.csv
+  168  biocheckdata biogeme_bdmodo.csv
+  169  pythonbiogeme modelomodo3 biogeme_bdmodo.csv
+  170  pythonbiogeme modelodest1 biogeme_bddestino.csv
+  171  pythonbiogeme modelodest2 biogeme_bddestino.csv
+  172  pythonbiogeme modelodest1 biogeme_bddestino.csv
+  173  pythonbiogeme modelodest2 biogeme_bddestino.csv
+  174  pythonbiogeme modelodest1 biogeme_bddestino12.csv
+  175  pythonbiogeme modelodest1 biogeme_bddestino.csv
+  176  pythonbiogeme modelodest1 biogeme_bddestino12.csv
+  177  pythonbiogeme modelodest3 biogeme_bddestino.csv
+  178  pythonbiogeme modelodest1 biogeme_bddestino12.csv
+  179  pythonbiogeme modelodest2 biogeme_bddestino.csv
+  180  pythonbiogeme modelodest1 biogeme_bddestino12.csv
+  181  pythonbiogeme modelodest1 biogeme_bddestinoB.csv
+  182  pythonbiogeme modelodest1 biogeme_bddestino12.csv
+  183  pythonbiogeme modelodest1 biogeme_bddestinoB.csv
+  184  ls
+  185  git clone https://github.com/IIC2115/Syllabus.git
+  186  git clone https://github.com/IIC2115/Syllabus.git
+  187  cd escritorio
+  188  git clone https://github.com/IIC2115/Syllabus.git
+  189  cd escritorio 
+  190  cd Desktop
+  191  git clone https://github.com/IIC2115/Syllabus.git
+  192  cd Syllabus
+  193  ls
+  194  git pull
+  195  cd desktop
+  196  git clone https://github.com/Sbaicardi/LAB0.git
+  197  cd LAB0
+  198  git add *
+  199  git commit -m "probando"
+  200   git config --global user.name "Sbaicardi"
+  201  git commit -m "probando"
+  202  git commit -m "probar"
+  203      git config --global user.name "Your Name"
+  204  git cd LAB0
+  205      git config --global user.name "Sbaicardi"
+  206      git config --global user.email sbaicardi@uc.cl
+  207  git commit -m "probando"
+  208      git config --global user.name "Sbaicardi"
+  209      git config --global user.email sbaicardi@uc.cl
+  210  git commit -m "probando"
+  211  git status
+  212  git branch --unset-upstream
+  213  git commit -m "probando"
+  214  ls
+  215  git add .
+  216  git status
+  217  git config user.name
+  218  git config user.email
+  219  cd /Users/sofiaaicairdiguzman/Desktop/LAB0
+  220  git add .
+  221  git commit -m "probar"
+  222  git push
+  223  git push --set-upstream origin master
+  224  git push --set-upstream origin master
+  225  ls
+  226  git status
+  227  cd LAB0
+  228  cd ..
+  229  cd ..
+  230  cd desktop
+  231  cd LAB0
+  232  git add *
+  233  git commit -m "subir"
+  234  git push
+  235  history
